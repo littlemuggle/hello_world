@@ -1,2 +1,2 @@
 # hello_world
-just test
+just only other test
